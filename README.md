@@ -36,6 +36,6 @@ We work as a white-label or partner team for agencies that need dependable engin
 
 - Website: [techneo.co.in](https://techneo.co.in)
 - Email: [contactus@techneo.co.in](mailto:contactus@techneo.co.in)
-- LinkedIn: add your company page link here
+- LinkedIn: [linked.in/techneo-engineering](https://www.linkedin.com/company/techneo-engineering/?viewAsMember=true)
 
 If you have a stuck project, a codebase that needs rescuing, or an overflow of client work, send us a short note about it.
